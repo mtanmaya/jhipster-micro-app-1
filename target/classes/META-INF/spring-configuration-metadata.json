@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "application",
+      "type": "com.neophyte.jhipster.microapp1.config.ApplicationProperties",
+      "sourceType": "com.neophyte.jhipster.microapp1.config.ApplicationProperties"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}

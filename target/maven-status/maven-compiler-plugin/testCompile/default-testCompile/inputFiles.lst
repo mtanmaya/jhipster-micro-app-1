@@ -1,0 +1,16 @@
+/Users/tmalik/Documents/workspace/workspace_IntelliJIdea/ws_microservice_jhipster/micro-app-1/src/test/java/com/neophyte/jhipster/microapp1/security/jwt/TokenProviderTest.java
+/Users/tmalik/Documents/workspace/workspace_IntelliJIdea/ws_microservice_jhipster/micro-app-1/src/test/java/com/neophyte/jhipster/microapp1/security/SecurityUtilsUnitTest.java
+/Users/tmalik/Documents/workspace/workspace_IntelliJIdea/ws_microservice_jhipster/micro-app-1/src/test/java/com/neophyte/jhipster/microapp1/IntegrationTest.java
+/Users/tmalik/Documents/workspace/workspace_IntelliJIdea/ws_microservice_jhipster/micro-app-1/src/test/java/com/neophyte/jhipster/microapp1/cucumber/CucumberTestContextConfiguration.java
+/Users/tmalik/Documents/workspace/workspace_IntelliJIdea/ws_microservice_jhipster/micro-app-1/src/test/java/com/neophyte/jhipster/microapp1/config/WebConfigurerTest.java
+/Users/tmalik/Documents/workspace/workspace_IntelliJIdea/ws_microservice_jhipster/micro-app-1/src/test/java/com/neophyte/jhipster/microapp1/security/jwt/JWTFilterTest.java
+/Users/tmalik/Documents/workspace/workspace_IntelliJIdea/ws_microservice_jhipster/micro-app-1/src/test/java/com/neophyte/jhipster/microapp1/cucumber/stepdefs/StepDefs.java
+/Users/tmalik/Documents/workspace/workspace_IntelliJIdea/ws_microservice_jhipster/micro-app-1/src/test/java/com/neophyte/jhipster/microapp1/config/timezone/HibernateTimeZoneIT.java
+/Users/tmalik/Documents/workspace/workspace_IntelliJIdea/ws_microservice_jhipster/micro-app-1/src/test/java/com/neophyte/jhipster/microapp1/ArchTest.java
+/Users/tmalik/Documents/workspace/workspace_IntelliJIdea/ws_microservice_jhipster/micro-app-1/src/test/java/com/neophyte/jhipster/microapp1/web/rest/errors/ExceptionTranslatorIT.java
+/Users/tmalik/Documents/workspace/workspace_IntelliJIdea/ws_microservice_jhipster/micro-app-1/src/test/java/com/neophyte/jhipster/microapp1/cucumber/CucumberIT.java
+/Users/tmalik/Documents/workspace/workspace_IntelliJIdea/ws_microservice_jhipster/micro-app-1/src/test/java/com/neophyte/jhipster/microapp1/config/WebConfigurerTestController.java
+/Users/tmalik/Documents/workspace/workspace_IntelliJIdea/ws_microservice_jhipster/micro-app-1/src/test/java/com/neophyte/jhipster/microapp1/web/rest/errors/ExceptionTranslatorTestController.java
+/Users/tmalik/Documents/workspace/workspace_IntelliJIdea/ws_microservice_jhipster/micro-app-1/src/test/java/com/neophyte/jhipster/microapp1/web/rest/TestUtil.java
+/Users/tmalik/Documents/workspace/workspace_IntelliJIdea/ws_microservice_jhipster/micro-app-1/src/test/java/com/neophyte/jhipster/microapp1/repository/timezone/DateTimeWrapperRepository.java
+/Users/tmalik/Documents/workspace/workspace_IntelliJIdea/ws_microservice_jhipster/micro-app-1/src/test/java/com/neophyte/jhipster/microapp1/repository/timezone/DateTimeWrapper.java
